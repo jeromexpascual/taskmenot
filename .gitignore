@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase config - DO NOT COMMIT THIS
+**/google-services.json
+**/GoogleService-Info.plist
+
+# macOS build folder (if targeting macOS)
+macos/Flutter/ephemeral/
