@@ -47,6 +47,7 @@ app.*.map.json
 # Firebase config - DO NOT COMMIT THIS
 **/google-services.json
 **/GoogleService-Info.plist
+lib/firebase_options.dart
 
 # macOS build folder (if targeting macOS)
 macos/Flutter/ephemeral/
